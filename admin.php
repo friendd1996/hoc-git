@@ -17,7 +17,6 @@ require("php/giatien.php");
 </head>
 <body>
 	<header>
-		<p>oke nua nhe di</p>
 		<section id="logo">Shop Bán điện thoại</section>
 		<section id='timkiem'>
 			<?php
