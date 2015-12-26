@@ -26,6 +26,7 @@ require("php/giatien.php");
 			}
 			?>
 		</section>
+		<p>Viết để up lên</p>
 		<section id="outandtime">
 			<p><i class="fa fa-globe"></i> <a href="index.php">Truy cập website </a></p>
 			<p><i class="fa fa-user"></i> Xin chào <?php $a = $_SESSION['fullname']; echo $a ; ?></p>
